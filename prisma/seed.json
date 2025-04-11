@@ -1,0 +1,81 @@
+{
+  "categories": [
+    {
+      "id": "e2c7b93d-b122-4d16-9d2f-4e8ce73eb6df",
+      "name": "Clothing"
+    },
+    {
+      "id": "a1f57a4e-3032-4a7d-9b33-8675c204019f",
+      "name": "Electronics"
+    },
+    {
+      "id": "f5c1be88-4b7e-41ff-91e1-7f5f0ac51c9e",
+      "name": "Books"
+    }
+  ],
+  "products": [
+    {
+      "name": "Levis Blue Denims",
+      "sku": "lvs-b-dnm-25",
+      "price": 89,
+      "stockQty": 100,
+      "categoryId": "e2c7b93d-b122-4d16-9d2f-4e8ce73eb6df"
+    },
+    {
+      "name": "Nike T-shirt",
+      "sku": "nk-tsht-01",
+      "price": 29,
+      "stockQty": 150,
+      "categoryId": "e2c7b93d-b122-4d16-9d2f-4e8ce73eb6df"
+    },
+    {
+      "name": "Adidas Sneakers",
+      "sku": "add-snk-90",
+      "price": 120,
+      "stockQty": 75,
+      "categoryId": "e2c7b93d-b122-4d16-9d2f-4e8ce73eb6df"
+    },
+    {
+      "name": "Wireless Mouse",
+      "sku": "elec-mou-77",
+      "price": 25,
+      "stockQty": 200,
+      "categoryId": "a1f57a4e-3032-4a7d-9b33-8675c204019f"
+    },
+    {
+      "name": "Mechanical Keyboard",
+      "sku": "elec-key-44",
+      "price": 85,
+      "stockQty": 120,
+      "categoryId": "a1f57a4e-3032-4a7d-9b33-8675c204019f"
+    },
+    {
+      "name": "27-inch Monitor",
+      "sku": "elec-mon-01",
+      "price": 200,
+      "stockQty": 60,
+      "categoryId": "a1f57a4e-3032-4a7d-9b33-8675c204019f"
+    },
+    {
+      "name": "Atomic Habits",
+      "sku": "book-ah-01",
+      "price": 18,
+      "stockQty": 300,
+      "categoryId": "f5c1be88-4b7e-41ff-91e1-7f5f0ac51c9e"
+    },
+    {
+      "name": "The Alchemist",
+      "sku": "book-ta-02",
+      "price": 15,
+      "stockQty": 250,
+      "categoryId": "f5c1be88-4b7e-41ff-91e1-7f5f0ac51c9e"
+    },
+    {
+      "name": "Clean Code",
+      "sku": "book-cc-03",
+      "price": 32,
+      "stockQty": 180,
+      "categoryId": "f5c1be88-4b7e-41ff-91e1-7f5f0ac51c9e"
+    }
+  ]
+}
